@@ -1,4 +1,4 @@
-# olympiad-geometry
+# Olympiad Geometry
 
 ## Introduction
 
