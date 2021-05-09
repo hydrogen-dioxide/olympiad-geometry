@@ -1,0 +1,6 @@
+triangle ABC
+point D, E := on AB, AD : DE : EB = 2 : 3 : 2
+point F, G := on BC, BF : FG : GC = 1 : 3 : 1
+point H, K := on BC, AH : HK : KC = 2 : 3 : 1
+Find DP:QG
+

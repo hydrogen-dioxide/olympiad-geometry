@@ -1,0 +1,3 @@
+Triangle ABC := AB = 6, BC = 7, CA = 8
+Point D := mid_point of minor arc AB of (ABC)
+Find AD^2
