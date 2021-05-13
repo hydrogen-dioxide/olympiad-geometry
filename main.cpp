@@ -250,7 +250,7 @@ circle circumcircle(triangle Triangle) {
 
 circle incircle(triangle Triangle) {
 	point I = Triangle.incentre();
-	long double r = Triangle.area() * 2 / Triangle.s();
+	long double r = Triangle.area() / Triangle.s();
 	return circle(I, r);
 }
 
